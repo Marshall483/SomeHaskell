@@ -1,7 +1,0 @@
-2022-03-05 23:28:29 [ThreadId 7] ERROR phoityne - "error: \8226 Variable not in scope: end \8226 Perhaps you meant one of these: \8216snd\8217 (imported from Prelude), \8216and\8217 (imported from Prelude)"
-2022-03-05 23:28:31 [ThreadId 7] ERROR phoityne - "error: Variable not in scope: start"
-2022-03-05 23:28:32 [ThreadId 7] ERROR phoityne - "error: Variable not in scope: start"
-2022-03-05 23:28:35 [ThreadId 7] ERROR phoityne - "error: \8226 Variable not in scope: end \8226 Perhaps you meant one of these: \8216snd\8217 (imported from Prelude), \8216and\8217 (imported from Prelude)"
-2022-03-05 23:28:36 [ThreadId 7] ERROR phoityne - "error: \8226 Variable not in scope: end \8226 Perhaps you meant one of these: \8216snd\8217 (imported from Prelude), \8216and\8217 (imported from Prelude)"
-2022-03-05 23:28:38 [ThreadId 7] ERROR phoityne - "error: Variable not in scope: start"
-2022-03-05 23:28:44 [ThreadId 7] ERROR phoityne - "\"extractSourcePosition\" (line 5, column 6):\nunexpected end of input\nexpecting \"Stopped at \" or \"Stopped in \" [INPUT]    should be 0\n\nFinished in 37.4244 seconds\n3 examples, 0 failures\nH>>= "
